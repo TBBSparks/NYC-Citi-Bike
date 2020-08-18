@@ -1,6 +1,6 @@
 # NYC-Citi-Bike
 
-Working on leaning some new skills using a NYC CitiBike dataset.
+Working on learning some new skills using a NYC CitiBike dataset.
 
 However, haven't been able to devote as much time to playing with it as I thought I would when I started it, so currently this project is incomplete.
 
